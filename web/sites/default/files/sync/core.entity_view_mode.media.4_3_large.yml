@@ -1,0 +1,13 @@
+uuid: 1962a1c0-29a8-45d7-a120-c9679a052f35
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+_core:
+  default_config_hash: KDpoeP9Xsqk1-2eUZPzO9ZoRCs3nHY9L-YUTT9g_RFA
+id: media.4_3_large
+label: '4:3 Large'
+description: ''
+targetEntityType: media
+cache: true
